@@ -1,0 +1,13 @@
+---
+title: "HW0"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+隨機抽樣樣本數量 n 的隨機樣本(x1, x2, x3,…, xn)，構成樣本資料的統計值、統計量或介值(statistic)，
+因此樣本統計值(statistic)為簡單隨機樣本的函數，樣本統計值亦屬於隨機變數，其機率分布稱為抽樣分布
+(sampling distribution)。
+
+git config --global user.email "hxp1005@gmail.com"
